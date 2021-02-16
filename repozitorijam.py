@@ -5,7 +5,7 @@ print(5**3+3*6)
 #1)Andersone Linda Elva
 
 #2)Apsîtis Edvards
-
+(6+2-3/2**4-1)
 #3)Èeròevièa Letîcija Lîna
 
 #4)Drozdova Miðelle
