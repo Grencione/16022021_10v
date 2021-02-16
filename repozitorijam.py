@@ -1,30 +1,30 @@
 #fails repozitorijam
-print(5+6-2+12/2)
+print(9**2)
 #Tatjana Grencione
-print(5**3+3*6)
+print(9**3)
 #1)Andersone Linda Elva
 
-#2)Apsîtis Edvards
-(6+2-3/2**4-1)
-#3)Èeròevièa Letîcija Lîna
+#2)ApsĆ®tis Edvards
 
-#4)Drozdova Miðelle
+#3)Ć�erĆ²eviĆØa LetĆ®cija LĆ®na
 
-#5)Karlinskis Renârs
+#4)Drozdova MiĆ°elle
+
+#5)Karlinskis RenĆ¢rs
 
 #6)Lukjanskis Miks Patriks
 
-#7)Lukðs Lauris
+#7)LukĆ°s Lauris
 
-#8)Mâlkalns Kristaps
+#8)MĆ¢lkalns Kristaps
 
-#9)Ruòìis Kristaps
+#9)RuĆ²Ć¬is Kristaps
 
-#10)Segliòð Jçkabs
+#10)SegliĆ²Ć° JĆ§kabs
 
-#11)Serþante Agate
+#11)SerĆ¾ante Agate
 
-#12)Voiteðonoks Aleksandrs
+#12)VoiteĆ°onoks Aleksandrs
 
 #13)Zvaigzne Gustavs Henrijs
 
