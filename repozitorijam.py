@@ -27,4 +27,4 @@ print(9**3+2)
 #12)VoiteĆ°onoks Aleksandrs
 
 #13)Zvaigzne Gustavs Henrijs
-
+print  ((2+2)*4)
