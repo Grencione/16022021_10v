@@ -25,6 +25,7 @@ print(5**3+3*6)
 #11)Serþante Agate
 
 #12)Voiteðonoks Aleksandrs
+print(2**2)
 
 #13)Zvaigzne Gustavs Henrijs
 
