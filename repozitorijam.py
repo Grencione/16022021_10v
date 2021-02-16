@@ -21,7 +21,7 @@ print(7**2+76-1*34*2)
 #9)Ruòìis Kristaps
 
 #10)Segliòð Jçkabs
-
+print("jekabs ir",8+9)
 #11)Serþante Agate
 
 #12)Voiteðonoks Aleksandrs
