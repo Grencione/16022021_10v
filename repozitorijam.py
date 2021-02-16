@@ -23,7 +23,7 @@ print(5**3+3*6)
 #10)Segliòð Jçkabs
 
 #11)Serþante Agate
-
+print(3/3/3)
 #12)Voiteðonoks Aleksandrs
 
 #13)Zvaigzne Gustavs Henrijs
