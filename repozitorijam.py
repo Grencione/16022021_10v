@@ -11,7 +11,7 @@ print(5**3+3*6)
 #4)Drozdova Miðelle
 
 #5)Karlinskis Renârs
-
+print(7**2+76-1*34*2)
 #6)Lukjanskis Miks Patriks
 
 #7)Lukðs Lauris
