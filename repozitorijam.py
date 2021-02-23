@@ -3,7 +3,7 @@ print(9**2+2**5)
 #Tatjana Grencione
 print(9**3+2)
 #1)Andersone Linda Elva
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbb
 #2)ApsĆ®tis Edvards
 
 #3)Ć�erĆ²eviĆØa LetĆ®cija LĆ®na
