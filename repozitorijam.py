@@ -1,5 +1,5 @@
 #fails repozitorijam
-print(9**2+2)
+print(9**2+2**5)
 #Tatjana Grencione
 print(9**3+2)
 #1)Andersone Linda Elva
